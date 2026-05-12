@@ -5,14 +5,6 @@ This project presents a comprehensive Exploratory Data Analysis (EDA) of a super
 
 This project was submitted as Homework Assignment 1 for the Data Science course.
 
----
-
-## Student Details
-* Student Name: Avi Mizrahi
-* ID Number: [Insert ID Here]
-* Course: Data Science
-* Lecturer: Dr. Uri Itai
-* Teaching Assistant: Gabriela Wagner
 
 ---
 
