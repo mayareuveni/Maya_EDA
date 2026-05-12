@@ -3,9 +3,6 @@
 ## Project Overview
 This project presents a comprehensive Exploratory Data Analysis (EDA) of a supermarket chain dataset, encompassing 1,000 transactions across 3 distinct branches. The primary objective is to decode consumer behavior, analyze purchasing patterns, and identify the store's core growth engines using statistical and data science methodologies.
 
-This project was submitted as Homework Assignment 1 for the Data Science course.
-
-
 ---
 
 ## Tools & Technologies Used
