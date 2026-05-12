@@ -7,7 +7,7 @@ This project presents a comprehensive Exploratory Data Analysis (EDA) of a super
 
 ## Tools & Technologies Used
 * Language: Python
-* Environment: Jupyter Notebook / Google Colab
+* Environment: Google Colab
 * Libraries:
   * pandas (Data manipulation and analysis)
   * numpy (Numerical computing)
